@@ -61,3 +61,21 @@
 # npm audit fix -- Hace la actualizacion automatica de las dependencias con problemas.
 
 ##### Este proyecto se encarga de vigilar las dependencias https://snyk.io/
+
+## Valida que tu libreria funcione en local antes de subir a npm
+# sudo npm link
+
+# añadir usuario a la terminal
+-> npm adduser
+# Publicar libreria
+-> npm publish
+-> Debe tener un README.md
+
+# para actualizar el paquete 
+# npm version patch -- si fue un parche
+# npm version major -- si fue un cambio mayor
+# npm version minor -- si fue un cambio menor
+
+
+https://docs.npmjs.com/packages-and-modules
+https://www.npmjs.com/package/funny-commit
