@@ -9,8 +9,8 @@
 # npm init -yes
 
 # Configuracion rapida de npm
-# npm init.author.email "mail@mail.com"
-# npm init.author.name "Name LastName"
+# npm set init.author.email "mail@mail.com"
+# npm set init.author.name "Name LastName"
 # npm init.license "MIT"
 
 # Como instalar dependencias
